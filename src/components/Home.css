@@ -1,0 +1,62 @@
+.container {
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.container p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #8c8c8c;
+  margin: 0;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: 'ITC Benguiat';
+  src: url('../fonts/ITCBenguiatStdBookCn.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.container img.stranger{
+  max-width: 16em;
+  border-radius: 15px;
+  transition-duration: 1s;
+}
+.container img.stranger:hover{
+  width: 18em;
+  border-radius: 15px;
+  transition-duration: 1s;
+}
+
+.container img.netflix{
+  width: 3.5em;
+}
+
+.container h1{
+  color: white;
+}
+
+.container h6{
+  font-family: 'Roboto Mono', monospace;
+}
+
+.container .netflixdiv{
+  border: 1px solid white;
+  border-radius: 6px;
+  width: 40% auto;
+  margin: 25px;
+}
+
+

@@ -1,0 +1,9 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
+i {
+    font-size: 1.2rem;
+}
+
+.IonTabButton{
+    --color-selected: #E1A752;
+}

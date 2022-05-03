@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'ITC Benguiat';
+    src: url('../fonts/ITCBenguiatStdBoldCn.ttf') format('truetype');
+    font-style: normal;
+    font-weight: bold;
+}
+
+.title3 {
+    text-align: center;
+    font-family: 'ITC Benguiat';
+    text-decoration: overline;
+    color: #E32828;
+    font-size: 22px;
+
+}
